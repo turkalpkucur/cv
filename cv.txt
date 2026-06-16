@@ -1,0 +1,223 @@
+
+
+
+
+
+03-01-2022 / Halen  (5)  Infotec Bilisim
+
+01-09-2018 / 31.12.2021 (3) Mega Code
+
+01-04-2018 / 01-09-2018 (1) Akınsoft
+
+01-01-2014 / 01-04-2018 (4) Crt Yazılım
+
+01-09-2009 / 01-10-2013 (4) Emko Emaye
+
+01-12-2007 / 01-12-2008 (1) Lectra 
+
+
+
+ 
+
+Türkalp KUCUR
+
+📍 Istanbul (Anadolu Yakası), Türkiye
+📞 0505 427 01 23
+✉️ turkalp.kucur@gmail.com
+🔗 https://www.linkedin.com/in/t%C3%BCrkalp-kucur-9a3777b8/
+🔗 https://github.com/turkalpkucur
+
+PROFİL
+
+20 senelik uzman yazılım mühendisliği tecrübemle c#, MsSql, PostgreSql, rest api sistemlerini kullanarak yazılım geliştirdim. Takım liderliği yaptım. Yazılım mimarlığı yaptım. Sağlık, Crm,kurumsal uygulamaları geliştirdim, devam ediyorum. 
+
+Performanslı, ölçeklenebilir, bulut tabanlı, sürdürülebilir yazılımlar geliştirmeye odaklanıyorum. Yazılım mimarilerine sadık kalarak, son teknolojileri takip ederek özellikle yapay zeka araçlarını da gerekirse kullanarak zaman kazanarak yazılım geliştiriyorum. Waterfall ve agile  yöntemleri ile de senior developer olarak yazılım geliştirdim.
+
+Problem çözmeyi severim.
+
+Yazılım geliştirip bitirmek ile bitmiyor tabiki. Kriz yönetimi ve kontrolü, Problemlerin çözümünde problemin iyi analiz edilmesi, hızlı ve kalıcı çözümlenmesi, zamanı verimli kullanma alanlarında kendimi yaşım gereği deneyim ve tecrübeliyim. Takım çalışmasına yatkın, problem çözme becerileri güçlü ve yeni teknolojileri hızlı öğrenebilen bir geliştiriciyim.
+
+Öğrenmeyi severim, yeni teknolojileri takip ediyorum.
+
+Kendimi şu anda yapay zeka algoritmalarını öğrenmekle odaklanmış durumdayım. Frontend ve mobil tarafında da kendimi geliştiriyorum.
+
+Sosyal bir insan olarak, zamanı iyi kullanmayı seviyorum. Tv izlemekten ziyada elektronik ve rc hobilere düşkünüm. Spor yapmayı severim.
+
+
+
+TEKNİK YETENEKLER
+Backend
+C# 
+.NET 8
+ASP.NET Core Web API
+Entity Framework Core
+Dapper
+LINQ
+Veritabanı
+PostgreSQL
+Microsoft SQL Server
+Redis
+
+Frontend
+React
+Next.js
+TypeScript
+JavaScript
+JQuery
+HTML5
+CSS3
+
+Mobile
+Native Android Development
+React Native 
+
+External Tools
+Telerik Controls
+Devextreme Controls
+
+
+DevOps & Araçlar
+Docker
+Git
+GitHub
+IIS
+Nginx
+
+Bildirim Sistemleri
+Ably
+
+
+Mimari
+Clean Architecture
+Onion Architecture
+CQRS
+Repository Pattern
+Dependency Injection
+Microservices
+
+Know-How
+Crm
+Accounting
+Erp Sistemleri
+Ödeme sistemleri
+Sosyal Medya Whatsapp Business API
+
+
+
+İŞ DENEYİMİ 
+ 
+Şirket Adı: Infotec Bilişim
+Senior Full Stack Developer
+01/2022 - Devam Ediyor
+
+Sorumluluklar
+
+www.wease.io Lead Management System v1: Bulut tabanlı sistem, tüm Frontend ve Backend yazılım, her şeyi ile ilgilendim. WebRtc, Reporting, ably, webhook.
+Kullanılan teknoloji: Backbone.js, .net core 3.1, mssql server. Monolith Mimari
+Reactjs kullanılarak webrtc görüşme  ekledim, takvim ve raporlama toolları ekledim…
+
+
+www.wease.io Lead Management System v2: Bulut tabanlı sistem,  microservisler, Cqrs mimarisi altında katmanlı mimari projede kodlama yaptım. (Geliştirmeler, raporlama ), Reporting, ably, webhook.
+Next.js projesinde frontend ile ilgili form ekranları yaptım.
+Bunların dışında sigorta ekranı ile ilgili backend servislerinin hazırlanması ile ilgili süreçte yer aldım.
+
+Teknolojiler:
+.NET , MsSql, PostgreSQL, Dapper, React
+
+Özellikler
+Yetkilendirme ve kimlik doğrulama
+Dinamik raporlama
+Satış takibi
+Görev yönetimi
+Proje Yönetim Sistemi
+ 
+
+
+Şirket Adı :Mega Code 
+Senior Full Stack Developer
+
+09/2018 – 12/2021
+
+Sorumluluklar
+Kurumsal web uygulamaları geliştirme
+Yeni özellik geliştirme
+Hata düzeltmeleri
+Müşteri taleplerinin analiz edilmesi
+PROJELER
+Acente365 Sigortacılık (Bulut tabanlı sistem, monolith mimari, frontend-backend development) form ekranları, raporlarma ekranları , arka plan servisleri, bildirim sistemleri
+Sea365 Denizcilik Catering Portal   (Bulut tabanlı sistem, monolith mimari, frontend-backend development) form ekranları, raporlarma ekranları , arka plan servisleri, bildirim sistemleri
+Dijipol Sigorta Portal (mikroservisler, backend geliştirme)  arka plan servisleri, bildirim sistemleri
+
+  
+
+Teknolojiler:
+.NET, PostgreSQL, Dapper, React
+
+Özellikler
+Yetkilendirme ve kimlik doğrulama
+Dinamik raporlama
+Satış takibi
+Görev yönetimi
+Proje Yönetim Sistemi
+
+Teknolojiler:
+.NET , MsSql, React
+
+
+
+
+Şirket Adı :Akınsoft
+Software Development Team Lead
+04/2018 – 09/2018
+
+Sorumluluklar
+Bulut tabanlı ön mühasebe yazılımı geliştirme  (Bulut tabanlı sistem, monolith mimari, frontend-backend development proje beta sürümü tamamlandı.)
+Teknolojiler:
+.NET , PostgreSQL, Dapper
+
+Özellikler
+Yetkilendirme ve kimlik doğrulama
+Dinamik raporlama
+ 
+ 
+ 
+
+Şirket Adı :Crt Yazılım
+Full Stack Developer
+01/2014 – 04/2018
+
+Sorumluluklar
+Crm yazılımının Silverlight teknolojisinden  mvc teknolojisine  geçişi  (monolith mimari, frontend-backend development)
+Teknolojiler:
+.NET , Mssql
+
+Özellikler
+Ekranların Tasarımı, servislerin yazılması
+Yetkilendirme ve kimlik doğrulama
+Dinamik raporlama
+
+2 adet avukatlık bürosunun kullandığı yazılım için mobile android native app geliştirdim 
+
+
+
+Şirket Adı :Emko Emaye
+Junior Developer
+09/2009 – 12/2013
+
+Sorumluluklar
+Şirket içi erp yazılımı için ekranlar yaptım. elektronik akıllı tahta sistemi için jr developer olarak çalıştım.
+Teknolojiler:
+.NET , Mssql
+
+  
+
+
+
+SERTİFİKALAR
+Bilge Adam Yazılım ve Veritabanı Uzmanlığı (2012-2013)
+Kariyer Mimarı Android Development (2013)
+
+İngilizce : B2 seviyesi (okuma-yazma-konuşma)
+
+
+ 
